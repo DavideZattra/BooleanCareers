@@ -75,7 +75,7 @@ body {
 }
 
 header {
-  content-align: center;
+  align-content: center;
   padding-left: 50px;
   padding-right: 50px;
 }
